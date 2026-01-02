@@ -45,4 +45,4 @@ The project is designed to demonstrate procedural logic within a class-based str
 This diagram represents the flow from input prompt to the final display of student information.
 
 Link: 
-
+https://github.com/adityabliss25/Student-Information-System/tree/master/docs/Images
